@@ -148,3 +148,39 @@ Multiplayer mode — AI vs. AI simulation to observe pure optimal play.
 This project is submitted as academic coursework at SRM Institute of Science and Technology, Tiruchirappalli. Free to use for educational purposes.
 
 2) Interactive Game AI (Tic-Tac-Toe System)
+
+
+🎮 Tic-Tac-Toe AI
+
+👨‍💻 Algorithm Used
+
+Minimax Algorithm
+
+📌 Description
+
+This project is a Tic-Tac-Toe game where a human plays against an AI.
+The AI uses the Minimax algorithm to always make the best possible move.
+
+🎮 How It Works
+
+- User plays as X
+- AI plays as O
+- User enters positions from 1 to 9
+- AI automatically responds with the optimal move
+
+🔢 Board Positions
+
+1 | 2 | 3
+4 | 5 | 6
+7 | 8 | 9
+
+▶️ How to Run
+
+Run the file using:
+python Tic-Tac-Toe.py
+
+⚙️ Features
+
+- Smart AI using Minimax
+- Prevents invalid moves
+- Simple and easy to play
